@@ -1,3 +1,9 @@
+## 📸 Screenshots
+
+![Mobile App](e-com-screenshot/mobile-view.png)
+![Admin Dashboard](e-com-screenshot/admin-dashboard.png)
+![Admin Orders](e-com-screenshot/customer-order.png)
+
 LARAVEL MOBILE FARM TRADING E-COMMERCE
 
 (Web & Mobile Application)
